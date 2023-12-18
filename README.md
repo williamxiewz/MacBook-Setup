@@ -1,11 +1,20 @@
 # MacBook-Setup
 MacBook 环境搭建初始化
 
-# terminal  
 # HomeBrew 
+
+# Terminal  
+
 # OpenGL
-# ruby 
-# node.js
+
+# Ruby 
+
+# Node.js
+
 # cocoapods
+
+# database
+
+# anaconda 
 
 
